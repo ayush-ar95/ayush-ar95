@@ -2,6 +2,6 @@
 
 I'm a passionate **Frontend developer** learning everyday.
 
-- 🌱 Currently learning: **React**
+- 🌱 Currently learning: **Android**
 - 🌍 Languages known: **HTML, CSS, JavaScript, C++, Python**
 - 📫 How to reach me: **ayush.ar95@gmail.com**
